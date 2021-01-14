@@ -1,0 +1,23 @@
+.sarker{
+    color: chocolate;
+    
+ 
+}
+.panda-card{
+    border: 0;
+}
+.fanda-card{
+    border: 0;
+}
+.pabda-footer{
+    background-color: white;
+    border:0;
+}
+.text-muted{
+    background-color: turquoise;
+    border: 0;
+    border-radius: 5px;
+}
+.sarjit{
+    display: flex;
+}
